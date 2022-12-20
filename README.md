@@ -1,2 +1,2 @@
-# Model_to_Predict_Cement_Compressive_Strength_Project
- The is a Regression Model, that predicts the Cement_Compressive_Strength
+# Regression Model to Predict Cement Compressive Strength Project
+The is a Regression Model, that predicts the Cement_Compressive_Strength, it is made using linear Regression. Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
